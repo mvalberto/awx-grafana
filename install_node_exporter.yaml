@@ -1,6 +1,6 @@
 ---
 - hosts: localhost
-  name: Install node_exporter on RHEL8
+  name: Install node_exporter on Ubuntu
   become: true
   tasks:
 
